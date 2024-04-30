@@ -3,7 +3,7 @@ FX, Neural Networks
 
 
 
-## Objetivo
+## 🎯 Objetivo
 
 
 <details>
@@ -30,7 +30,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-## Datos Históricos
+## 📜 Datos Históricos
 
 
 <details>
@@ -49,7 +49,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-## Modelo
+## 🧮 Modelo
 
 
 <details>
@@ -64,7 +64,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-## Predicción con Redes Neuronales 
+## 🧠 Predicción con Redes Neuronales 
 
 
 <details>
@@ -73,7 +73,80 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 <br>
 
 
+* **`"USDMXN"`**
 
+  <details>
+  <summary>📊 Clic para expandir </summary>
+    
+  <img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/FX_Predictions_sns_USD-MXN.png" width="1000" height="700">
+
+
+  <br>
+
+
+  </details>
+  
+
+* **`"EURMXN"`**
+
+
+  <details>
+  <summary>📊 Clic para expandir </summary>
+    
+  <img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/FX_Predictions_sns_EUR-MXN.png" width="1000" height="700">
+
+
+  <br>
+
+
+  </details>
+  
+* **`"GBPMXN"`**
+
+
+  <details>
+  <summary>📊 Clic para expandir </summary>
+    
+  <img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/FX_Predictions_sns_GBP-MXN.png" width="1000" height="700">
+
+
+  <br>
+
+
+  </details>
+
+  
+* **`"EURUSD"`**
+
+
+  <details>
+  <summary>📊 Clic para expandir </summary>
+    
+  <img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/FX_Predictions_sns_EUR-USD.png" width="1000" height="700">
+
+
+  <br>
+
+
+  </details>
+
+  
+* **`"GBPUSD"`**
+
+
+  <details>
+  <summary>📊 Clic para expandir </summary>
+    
+  <img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/FX_Predictions_sns_GBP-USD.png" width="1000" height="700">
+
+
+  <br>
+
+
+  </details>
+
+
+  
 
 
 </details>
@@ -88,11 +161,13 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-## Documentación
+## 💼 Documentación
 
 
 <details>
 <summary>🔍 Clic para Expandir </summary>
+
+<br>
 
 [Reporte](https://github.com/vbleal/FX_Predictions/blob/main/Report/GH_FX_Predictions.pdf)
 
