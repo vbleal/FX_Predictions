@@ -5,6 +5,7 @@ FX, Neural Networks
 <img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/DE_WP_FX.png" width="500" height="300">
 
 
+<br>
 
 ## 🎯 Objetivo
 
@@ -34,6 +35,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
+<br>
 
 ## 📜 Datos Históricos
 
@@ -52,7 +54,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-
+<br>
 
 ## 🧮 Modelo
 
@@ -67,7 +69,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-
+<br>
 
 ## 🧠 Predicción con Redes Neuronales 
 
@@ -164,7 +166,7 @@ Y crea un **Modelo de Redes Neuronales** para generar sus respectivas *prediccio
 
 
 
-
+<br>
 
 ## 💼 Documentación
 
