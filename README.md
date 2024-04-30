@@ -1,4 +1,4 @@
-# FX_Predictions
+# FX Predictions
 FX, Neural Networks
 
 
