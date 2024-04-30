@@ -9,6 +9,8 @@ FX, Neural Networks
 <details>
 <summary>🔍 Clic para Expandir </summary>
 
+<br>
+
 El presente proyecto permite descargar la *evolución histórica* de los siguientes **Tipos de Cambio (Paridades)** usando la librería de Yahoo Finance (**`'yfinance'`**):
 
 * **`"USDMXN"`**
