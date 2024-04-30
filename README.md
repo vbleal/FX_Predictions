@@ -2,6 +2,9 @@
 FX, Neural Networks
 
 
+<img src="https://github.com/vbleal/FX_Predictions/blob/main/Imag/DE_WP_FX.png" width="500" height="300">
+
+
 
 ## 🎯 Objetivo
 
