@@ -1,4 +1,4 @@
-# FX Predictions
+# FX Predictions 💹
 FX, Neural Networks
 
 
